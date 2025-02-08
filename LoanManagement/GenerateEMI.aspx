@@ -30,7 +30,7 @@
     <form id="form2" runat="server">
         <div class="container">
             <div class="row">
-                
+                <!-- Left Section -->
                 <div class="col-md-6">
                     <h3>EMI Schedule</h3>
                     <div class="form-group">
